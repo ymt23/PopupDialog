@@ -13,7 +13,7 @@ let package = Package(
 	// Which platforms and minimum deployment targets are supported
 	// See: https://docs.swift.org/package-manager/PackageDescription/PackageDescription.html#supportedplatform
 	platforms: [
-		.iOS(.v12)
+		.iOS(.v13)
 	],
 	// The externaly visible build artifacts
 	// See: https://docs.swift.org/package-manager/PackageDescription/PackageDescription.html#product
